@@ -300,7 +300,7 @@ input[type=submit] {
     }
     .sidebar {
         width: 100%;
-       
+        padding: 20px;
     }
 }
 
